@@ -1,0 +1,58 @@
+about:
+  description: OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
+  license: MPL-2.0
+  homepage: http://ocrmypdf.readthedocs.io/
+  head: 196072a
+  archived: false
+  latestVersion: v17.11.0
+  collectedAt: 2026-09-03T04:40:03Z
+timeline:
+  created: 2013-12-20
+  lastCommit: 2026-09-01
+  lastRelease: 2026-08-28
+popularity:
+  star: 34654
+  watcher: 192
+  fork: 2403
+  release: 63
+  contributor: 119
+  pullRequest: 77
+  issue: 1362
+language:
+  Python: 1512442
+  Shell: 23381
+  Dockerfile: 3787
+totalLine: 1539610
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 2
+    mergedPR: 4
+    openPR: 1
+    closedIssue: 2
+    openIssue: 2
+    commit: 39
+  last90d:
+    since: 2026-06-05
+    release: 11
+    mergedPR: 19
+    openPR: 1
+    closedIssue: 11
+    openIssue: 7
+    commit: 114
+  last180d:
+    since: 2026-03-07
+    release: 12
+    mergedPR: 34
+    openPR: 1
+    closedIssue: 33
+    openIssue: 7
+    commit: 168
+  last360d:
+    since: 2025-09-08
+    release: 22
+    mergedPR: 49
+    openPR: 2
+    closedIssue: 79
+    openIssue: 11
+    commit: 397
