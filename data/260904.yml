@@ -7,15 +7,15 @@ about:
   head: 196072a
   archived: false
   latestVersion: v17.11.0
-  collectedAt: 2026-09-04T19:39:05Z
+  collectedAt: 2026-09-04T21:02:34Z
 timeline:
   created: 2013-12-20
   lastCommit: 2026-09-01
   lastRelease: 2026-08-28
 popularity:
-  star: 34670
+  star: 34672
   watcher: 192
-  fork: 2404
+  fork: 2403
   release: 63
   contributor: 119
   pullRequest: 283
@@ -82,5 +82,68 @@ total:
   openIssue: 93
   commit: 4484
 ---
+path: /home/runner/.x-repo/github.com/ocrmypdf/OCRmyPDF
+collectedAt: 2026-09-04T21:02:36Z
+loc:
+  Python:
+    code: 34373
+    comments: 2632
+    blanks: 6841
+    files: 178
+  Svg:
+    code: 583
+    comments: 0
+    blanks: 0
+    files: 5
+  Toml:
+    code: 373
+    comments: 30
+    blanks: 50
+    files: 3
+  Bash:
+    code: 325
+    comments: 20
+    blanks: 49
+    files: 1
+  Fish:
+    code: 165
+    comments: 2
+    blanks: 27
+    files: 1
+  ReStructuredText:
+    code: 152
+    comments: 0
+    blanks: 24
+    files: 2
+  Yaml:
+    code: 89
+    comments: 13
+    blanks: 11
+    files: 2
+  Xml:
+    code: 51
+    comments: 0
+    blanks: 12
+    files: 1
+  Json:
+    code: 6
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 6386
+    blanks: 1933
+    files: 41
+  Text:
+    code: 0
+    comments: 887
+    blanks: 587
+    files: 12
+total:
+  code: 36393
+  comments: 10049
+  blanks: 9599
+  files: 247
 ---
 
