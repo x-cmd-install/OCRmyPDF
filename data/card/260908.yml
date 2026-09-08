@@ -5,15 +5,15 @@ about:
   head: 196072a
   archived: false
   latestVersion: "v17.11.0"
-  collectedAt: 2026-09-08T01:34:12Z
+  collectedAt: 2026-09-08T04:23:35Z
 timeline:
   created: 2013-12-20
   lastCommit: 2026-09-01
   lastRelease: 2026-08-28
 popularity:
-  star: 34692
+  star: 34691
   watcher: 193
-  fork: 2406
+  fork: 2407
   release: 63
   contributor: 119
   pullRequest: 285
@@ -81,7 +81,7 @@ total:
   commit: 4484
 ---
 path: /home/runner/.x-repo/github.com/ocrmypdf/OCRmyPDF
-collectedAt: 2026-09-08T01:34:16Z
+collectedAt: 2026-09-08T04:23:41Z
 loc:
   Python:
     code: 34373
