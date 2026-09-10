@@ -4,7 +4,7 @@
 
 OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
-![OCRmyPDF](https://repo.x-cmd.io/OCRmyPDF.svg)
+![OCRmyPDF](https://repo.x-cmd.io/OCRmyPDF.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,19 @@ x install OCRmyPDF
 - **最新版本**: `v17.11.0` (2026-08-28)
 - **最近提交**: 2026-09-08
 - **Release 含资产**: 4 个
-- **发布时间**: 2026-08-28T22:15:53Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [ocrmypdf-17.11.0-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl) | 522.4 KiB | `other` |
+| [ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
+| [ocrmypdf-17.11.0.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz) | 7.2 MiB | `native/unknown` |
+| [ocrmypdf-17.11.0.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz.sigstore.json) | 11.0 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 34,706 · **Fork**: 2,406 · **开放 issue**: 1,364 · **贡献者**: 120
+- **Star**: 34,710 · **Fork**: 2,405 · **开放 issue**: 1,364 · **贡献者**: 120
 
 ## 累计统计
 
@@ -62,4 +70,4 @@ OCRmyPDF 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:26:54Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:03:49Z._

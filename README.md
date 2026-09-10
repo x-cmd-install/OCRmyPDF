@@ -23,11 +23,19 @@ x install OCRmyPDF
 - **Latest**: `v17.11.0` (2026-08-28)
 - **Last commit**: 2026-09-08
 - **Assets in release**: 4
-- **Published**: 2026-08-28T22:15:53Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ocrmypdf-17.11.0-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl) | 522.4 KiB | `other` |
+| [ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
+| [ocrmypdf-17.11.0.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz) | 7.2 MiB | `native/unknown` |
+| [ocrmypdf-17.11.0.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz.sigstore.json) | 11.0 KiB | `other` |
 
 ## Popularity
 
-- **Stars**: 34,706 · **Forks**: 2,406 · **Open issues**: 1,364 · **Contributors**: 120
+- **Stars**: 34,710 · **Forks**: 2,405 · **Open issues**: 1,364 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -58,8 +66,8 @@ Total: **36,635** lines of code across **189** files in the top 5 languages.
 Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `OCRmyPDF` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/OCRmyPDF.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/OCRmyPDF.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:26:54Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:03:49Z._
