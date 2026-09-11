@@ -7,7 +7,7 @@ about:
   latestVersion: "v17.11.0"
   latestRelease: "v17.11.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T04:25:51Z
+  collectedAt: 2026-09-11T20:47:13Z
 timeline:
   created: 2013-12-20
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-28
   lastPrerelease: 
 popularity:
-  star: 34714
+  star: 34720
   watcher: 193
   fork: 2405
   release: 63
@@ -85,7 +85,7 @@ total:
   commit: 4488
 ---
 path: /home/runner/.x-repo/github.com/ocrmypdf/OCRmyPDF
-collectedAt: 2026-09-11T04:25:57Z
+collectedAt: 2026-09-11T20:47:18Z
 loc:
   Python:
     code: 34891
