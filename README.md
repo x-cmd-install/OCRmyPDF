@@ -12,6 +12,18 @@ OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be search
 x install OCRmyPDF
 ```
 
+## Code insight
+
+Total: **36,635** lines of code across **189** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Python | 34,891 | 2,683 | 6,930 | 179 |
+| Svg | 583 | 0 | 0 | 5 |
+| Toml | 373 | 31 | 50 | 3 |
+| Bash | 325 | 20 | 49 | 1 |
+| Fish | 165 | 2 | 27 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/ocrmypdf/OCRmyPDF>
@@ -24,18 +36,9 @@ x install OCRmyPDF
 - **Last commit**: 2026-09-08
 - **Assets in release**: 4
 
-## Release assets
-
-| Asset | Size | Target |
-|-------|-----:|--------|
-| [ocrmypdf-17.11.0-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl) | 522.4 KiB | `other` |
-| [ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
-| [ocrmypdf-17.11.0.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz) | 7.2 MiB | `native/unknown` |
-| [ocrmypdf-17.11.0.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz.sigstore.json) | 11.0 KiB | `other` |
-
 ## Popularity
 
-- **Stars**: 34,710 · **Forks**: 2,405 · **Open issues**: 1,364 · **Contributors**: 120
+- **Stars**: 34,711 · **Forks**: 2,405 · **Open issues**: 1,364 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -45,21 +48,21 @@ x install OCRmyPDF
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 5 | 2 | 4 | 2 | 31 |
-| 90d | 2026-06-12 | 11 | 19 | 2 | 12 | 4 | 108 |
-| 360d | 2025-09-15 | 20 | 50 | 3 | 80 | 10 | 397 |
+| 30d | 2026-08-12 | 1 | 5 | 2 | 2 | 2 | 31 |
+| last60d | 2026-07-13 | 11 | 10 | 2 | 10 | 3 | 70 |
+| 90d | 2026-06-13 | 11 | 19 | 2 | 12 | 4 | 108 |
+| last180d | 2026-03-15 | 12 | 31 | 2 | 35 | 7 | 167 |
+| 360d | 2025-09-16 | 20 | 50 | 3 | 80 | 10 | 397 |
+| last720d | 2024-09-21 | 30 | 79 | 5 | 169 | 23 | 620 |
 
-## Code size
+## Release assets
 
-Total: **36,635** lines of code across **189** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Python | 34,891 | 2,683 | 6,930 | 179 |
-| Svg | 583 | 0 | 0 | 5 |
-| Toml | 373 | 31 | 50 | 3 |
-| Bash | 325 | 20 | 49 | 1 |
-| Fish | 165 | 2 | 27 | 1 |
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [ocrmypdf-17.11.0-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl) | 522.4 KiB | `other` |
+| [ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
+| [ocrmypdf-17.11.0.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz) | 7.2 MiB | `native/unknown` |
+| [ocrmypdf-17.11.0.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.11.0/ocrmypdf-17.11.0.tar.gz.sigstore.json) | 11.0 KiB | `other` |
 
 ## Improve this data
 
@@ -70,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:03:49Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T00:24:19Z._
