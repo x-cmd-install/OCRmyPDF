@@ -38,7 +38,7 @@ Total: **36,635** lines of code across **189** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,714 · **Forks**: 2,405 · **Open issues**: 1,364 · **Contributors**: 120
+- **Stars**: 34,720 · **Forks**: 2,405 · **Open issues**: 1,364 · **Contributors**: 120
 
 ## Totals (cumulative)
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T04:26:01Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T20:47:22Z._
