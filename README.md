@@ -14,7 +14,7 @@ x install OCRmyPDF
 
 ## Code insight
 
-Total: **36,635** lines of code across **189** files in the top 5 languages.
+Total: **36,632** lines of code across **189** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
@@ -33,27 +33,27 @@ Total: **36,635** lines of code across **189** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v17.11.0` (2026-08-28)
-- **Last commit**: 2026-09-08
+- **Last commit**: 2026-09-13
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 34,734 · **Forks**: 2,406 · **Open issues**: 1,364 · **Contributors**: 120
+- **Stars**: 34,759 · **Forks**: 2,410 · **Open issues**: 1,364 · **Contributors**: 120
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 207 · **Open PRs**: 6 · **Closed issues**: 1271 · **Open issues**: 93 · **Commits**: 4488
+- **Releases**: 63 · **Merged PRs**: 207 · **Open PRs**: 6 · **Closed issues**: 1271 · **Open issues**: 93 · **Commits**: 4492
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 5 | 3 | 2 | 2 | 31 |
-| last60d | 2026-07-15 | 11 | 10 | 3 | 9 | 3 | 70 |
-| 90d | 2026-06-15 | 11 | 18 | 3 | 12 | 4 | 108 |
-| last180d | 2026-03-17 | 12 | 31 | 3 | 35 | 7 | 167 |
-| 360d | 2025-09-18 | 20 | 50 | 4 | 79 | 10 | 397 |
-| last720d | 2024-09-23 | 30 | 79 | 6 | 168 | 23 | 620 |
+| 30d | 2026-08-15 | 1 | 4 | 3 | 2 | 2 | 28 |
+| last60d | 2026-07-16 | 11 | 9 | 3 | 8 | 3 | 63 |
+| 90d | 2026-06-16 | 11 | 18 | 3 | 12 | 4 | 97 |
+| last180d | 2026-03-18 | 12 | 31 | 3 | 34 | 7 | 167 |
+| 360d | 2025-09-19 | 20 | 50 | 4 | 79 | 10 | 400 |
+| last720d | 2024-09-24 | 30 | 79 | 6 | 168 | 22 | 624 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T04:37:09Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T04:43:35Z._
