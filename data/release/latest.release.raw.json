@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 541638,
       "digest": "sha256:d1fc83dd2b567011f10afdd7612576f13c40183cbf1d867f898b64bb62d5f515",
-      "download_count": 6,
+      "download_count": 19,
       "created_at": "2026-09-16T23:01:52Z",
       "updated_at": "2026-09-16T23:01:52Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.12.1/ocrmypdf-17.12.1-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11194,
       "digest": "sha256:8bb03f003a0051d15418cf0a163d5a060444a4abf7751968e4920d24d708382d",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-16T23:20:50Z",
       "updated_at": "2026-09-16T23:20:50Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.12.1/ocrmypdf-17.12.1-py3-none-any.whl.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7627547,
       "digest": "sha256:aca73a23a80cf2f46a4c15040b0035203dbf74054b7a0c3a7ee93b05abc555a6",
-      "download_count": 4,
+      "download_count": 14,
       "created_at": "2026-09-16T23:01:52Z",
       "updated_at": "2026-09-16T23:01:52Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.12.1/ocrmypdf-17.12.1.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11194,
       "digest": "sha256:835ff5421898241ad1ce415f5213ae7898c78e72b237be02387cb277a4daaa28",
-      "download_count": 2,
+      "download_count": 6,
       "created_at": "2026-09-16T23:20:50Z",
       "updated_at": "2026-09-16T23:20:50Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.12.1/ocrmypdf-17.12.1.tar.gz.sigstore.json"
@@ -183,5 +183,17 @@
   ],
   "tarball_url": "https://api.github.com/repos/ocrmypdf/OCRmyPDF/tarball/v17.12.1",
   "zipball_url": "https://api.github.com/repos/ocrmypdf/OCRmyPDF/zipball/v17.12.1",
-  "body": "**Fixes**\n\n- `ocrmypdf --version` and `ocrmypdf --help` printed to standard error\n  instead of standard output, so `version=$(ocrmypdf --version)` came back\n  empty and `ocrmypdf --help | less` showed nothing. OCRmyPDF redirects file\n  descriptor 1 to standard error early in startup, before it parses the\n  command line, so that a stray write from a plugin or a library cannot\n  corrupt a PDF being written to standard output; argparse's own output was\n  caught by that redirection too and is now routed back to the real standard\n  output. Error messages continue to go to standard error. Broken since\n  v17.8.0."
+  "body": "**Fixes**\n\n- `ocrmypdf --version` and `ocrmypdf --help` printed to standard error\n  instead of standard output, so `version=$(ocrmypdf --version)` came back\n  empty and `ocrmypdf --help | less` showed nothing. OCRmyPDF redirects file\n  descriptor 1 to standard error early in startup, before it parses the\n  command line, so that a stray write from a plugin or a library cannot\n  corrupt a PDF being written to standard output; argparse's own output was\n  caught by that redirection too and is now routed back to the real standard\n  output. Error messages continue to go to standard error. Broken since\n  v17.8.0.",
+  "reactions": {
+    "url": "https://api.github.com/repos/ocrmypdf/OCRmyPDF/releases/390327985/reactions",
+    "total_count": 1,
+    "+1": 0,
+    "-1": 0,
+    "laugh": 0,
+    "hooray": 1,
+    "confused": 0,
+    "heart": 0,
+    "rocket": 0,
+    "eyes": 0
+  }
 }
