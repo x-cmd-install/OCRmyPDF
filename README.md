@@ -4,7 +4,7 @@
 
 OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
-![OCRmyPDF](https://repo.x-cmd.io/OCRmyPDF.svg)
+[![x-cmd/install — OCRmyPDF Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OCRmyPDF.svg)](https://x-cmd.com/install/OCRmyPDF)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **37,133** lines of code across **191** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 34,793 · **Forks**: 2,412 · **Open issues**: 1,366 · **Contributors**: 122
+- **Stars**: 34,805 · **Forks**: 2,412 · **Open issues**: 1,366 · **Contributors**: 122
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **37,133** lines of code across **191** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 7 | 0 | 3 | 3 | 44 |
-| last60d | 2026-07-20 | 4 | 11 | 0 | 9 | 3 | 79 |
-| 90d | 2026-06-20 | 13 | 15 | 0 | 13 | 5 | 113 |
-| last180d | 2026-03-22 | 14 | 34 | 0 | 34 | 8 | 183 |
-| 360d | 2025-09-23 | 22 | 53 | 1 | 80 | 10 | 416 |
-| last720d | 2024-09-28 | 32 | 82 | 3 | 171 | 21 | 644 |
+| 30d | 2026-08-21 | 3 | 7 | 0 | 3 | 3 | 44 |
+| last60d | 2026-07-22 | 4 | 9 | 0 | 9 | 3 | 79 |
+| 90d | 2026-06-22 | 13 | 14 | 0 | 12 | 5 | 113 |
+| last180d | 2026-03-24 | 14 | 34 | 0 | 33 | 8 | 183 |
+| 360d | 2025-09-25 | 22 | 53 | 1 | 78 | 10 | 416 |
+| last720d | 2024-09-30 | 32 | 82 | 3 | 171 | 21 | 644 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:30:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:53:43Z._

@@ -4,7 +4,7 @@
 
 OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
-![OCRmyPDF](https://repo.x-cmd.io/OCRmyPDF.svg?lang=zh)
+[![x-cmd/install — OCRmyPDF Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OCRmyPDF.svg?lang=zh)](https://x-cmd.com/install/OCRmyPDF)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install OCRmyPDF
 
 ## 流行度
 
-- **Star**: 34,793 · **Fork**: 2,412 · **开放 issue**: 1,366 · **贡献者**: 122
+- **Star**: 34,805 · **Fork**: 2,412 · **开放 issue**: 1,366 · **贡献者**: 122
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install OCRmyPDF
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 3 | 7 | 0 | 3 | 3 | 44 |
-| last60d | 2026-07-20 | 4 | 11 | 0 | 9 | 3 | 79 |
-| 90d | 2026-06-20 | 13 | 15 | 0 | 13 | 5 | 113 |
-| last180d | 2026-03-22 | 14 | 34 | 0 | 34 | 8 | 183 |
-| 360d | 2025-09-23 | 22 | 53 | 1 | 80 | 10 | 416 |
-| last720d | 2024-09-28 | 32 | 82 | 3 | 171 | 21 | 644 |
+| 30d | 2026-08-21 | 3 | 7 | 0 | 3 | 3 | 44 |
+| last60d | 2026-07-22 | 4 | 9 | 0 | 9 | 3 | 79 |
+| 90d | 2026-06-22 | 13 | 14 | 0 | 12 | 5 | 113 |
+| last180d | 2026-03-24 | 14 | 34 | 0 | 33 | 8 | 183 |
+| 360d | 2025-09-25 | 22 | 53 | 1 | 78 | 10 | 416 |
+| last720d | 2024-09-30 | 32 | 82 | 3 | 171 | 21 | 644 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ OCRmyPDF 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:30:39Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:53:43Z._
