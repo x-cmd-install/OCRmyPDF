@@ -4,7 +4,7 @@
 
 OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
 
-[![x-cmd/install — OCRmyPDF Code Quality Monitoring Repo Card](https://repo.x-cmd.io/OCRmyPDF.svg?lang=zh)](https://x-cmd.com/install/OCRmyPDF)
+[![x-cmd/install — OCRmyPDF Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/OCRmyPDF.svg?lang=zh)](https://x-cmd.com/install/OCRmyPDF)
 
 ## 安装
 
@@ -14,11 +14,11 @@ x install OCRmyPDF
 
 ## 代码洞察
 
-合计: **37,133** 行代码（覆盖前 5 种语言、共 **191** 个文件）。
+合计: **37,215** 行代码（覆盖前 5 种语言、共 **191** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 35,381 | 2,705 | 7,033 | 181 |
+| Python | 35,463 | 2,725 | 7,046 | 181 |
 | Svg | 583 | 0 | 0 | 5 |
 | Toml | 379 | 32 | 51 | 3 |
 | Bash | 325 | 20 | 49 | 1 |
@@ -33,27 +33,27 @@ x install OCRmyPDF
 ## 发布
 
 - **最新版本**: `v17.12.1` (2026-09-16)
-- **最近提交**: 2026-09-16
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 34,835 · **Fork**: 2,413 · **开放 issue**: 1,370 · **贡献者**: 122
+- **Star**: 34,851 · **Fork**: 2,413 · **开放 issue**: 1,371 · **贡献者**: 122
 
 ## 累计统计
 
-- **发布数**: 65 · **已合并 PR**: 210 · **开放 PR**: 3 · **已关闭 issue**: 1278 · **开放 issue**: 92 · **提交数**: 4512
+- **发布数**: 65 · **已合并 PR**: 210 · **开放 PR**: 3 · **已关闭 issue**: 1283 · **开放 issue**: 88 · **提交数**: 4517
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 3 | 7 | 0 | 3 | 6 | 34 |
-| last60d | 2026-07-24 | 4 | 9 | 0 | 9 | 7 | 73 |
-| 90d | 2026-06-24 | 13 | 14 | 0 | 12 | 9 | 107 |
-| last180d | 2026-03-26 | 14 | 33 | 0 | 33 | 12 | 180 |
-| 360d | 2025-09-27 | 22 | 53 | 1 | 77 | 14 | 416 |
-| last720d | 2024-10-02 | 32 | 82 | 3 | 170 | 25 | 644 |
+| 30d | 2026-08-24 | 3 | 6 | 0 | 7 | 3 | 39 |
+| last60d | 2026-07-25 | 4 | 9 | 0 | 11 | 4 | 78 |
+| 90d | 2026-06-25 | 13 | 14 | 0 | 16 | 6 | 112 |
+| last180d | 2026-03-27 | 14 | 33 | 0 | 36 | 9 | 185 |
+| 360d | 2025-09-28 | 22 | 53 | 1 | 81 | 11 | 421 |
+| last720d | 2024-10-03 | 32 | 82 | 3 | 174 | 22 | 649 |
 
 ## Release 资产
 
@@ -73,4 +73,4 @@ OCRmyPDF 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T04:41:54Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:39:01Z._
