@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 541638,
       "digest": "sha256:d1fc83dd2b567011f10afdd7612576f13c40183cbf1d867f898b64bb62d5f515",
-      "download_count": 43,
+      "download_count": 49,
       "created_at": "2026-09-16T23:01:52Z",
       "updated_at": "2026-09-16T23:01:52Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.12.1/ocrmypdf-17.12.1-py3-none-any.whl"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7627547,
       "digest": "sha256:aca73a23a80cf2f46a4c15040b0035203dbf74054b7a0c3a7ee93b05abc555a6",
-      "download_count": 56,
+      "download_count": 63,
       "created_at": "2026-09-16T23:01:52Z",
       "updated_at": "2026-09-16T23:01:52Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.12.1/ocrmypdf-17.12.1.tar.gz"
