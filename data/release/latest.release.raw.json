@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 561907,
       "digest": "sha256:f4d226f361c4b1498637f9c674daebfaf84223b84d9eba6bfba60a3ba260f9de",
-      "download_count": 37,
+      "download_count": 47,
       "created_at": "2026-09-28T16:59:23Z",
       "updated_at": "2026-09-28T16:59:23Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 11155,
       "digest": "sha256:2c240f67ef9fce685513f59a79132eba607b77242430b38c17ec5fc3acc1bb1b",
-      "download_count": 11,
+      "download_count": 12,
       "created_at": "2026-09-28T18:55:24Z",
       "updated_at": "2026-09-28T18:55:24Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0-py3-none-any.whl.sigstore.json"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7685391,
       "digest": "sha256:151c35d810eb628fbc5cb9bbe80b834ecf094737efa0e7a2e9e1fac3c730ed49",
-      "download_count": 78,
+      "download_count": 92,
       "created_at": "2026-09-28T16:59:22Z",
       "updated_at": "2026-09-28T16:59:23Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 11155,
       "digest": "sha256:422be482b8aed91d1e82fcbcc110e6eeb05dfe0a2f581074d00cf882b3485244",
-      "download_count": 12,
+      "download_count": 13,
       "created_at": "2026-09-28T18:55:24Z",
       "updated_at": "2026-09-28T18:55:24Z",
       "browser_download_url": "https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0.tar.gz.sigstore.json"
