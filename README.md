@@ -14,11 +14,11 @@ x install OCRmyPDF
 
 ## Code insight
 
-Total: **41,786** lines of code across **203** files in the top 5 languages.
+Total: **41,922** lines of code across **203** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 40,030 | 2,881 | 7,809 | 193 |
+| Python | 40,166 | 2,885 | 7,833 | 193 |
 | Svg | 583 | 0 | 0 | 5 |
 | Toml | 381 | 32 | 52 | 3 |
 | Bash | 326 | 20 | 49 | 1 |
@@ -33,27 +33,27 @@ Total: **41,786** lines of code across **203** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v17.13.0` (2026-09-28)
-- **Last commit**: 2026-10-10
+- **Last commit**: 2026-10-12
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 34,995 · **Forks**: 2,424 · **Open issues**: 1,378 · **Contributors**: 123
+- **Stars**: 35,009 · **Forks**: 2,425 · **Open issues**: 1,379 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 211 · **Open PRs**: 3 · **Closed issues**: 1320 · **Open issues**: 58 · **Commits**: 4566
+- **Releases**: 66 · **Merged PRs**: 211 · **Open PRs**: 4 · **Closed issues**: 1320 · **Open issues**: 59 · **Commits**: 4568
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-12 | 3 | 1 | 0 | 13 | 1 | 50 |
-| last60d | 2026-08-13 | 4 | 9 | 0 | 15 | 3 | 99 |
-| 90d | 2026-07-14 | 14 | 14 | 0 | 23 | 4 | 133 |
-| last180d | 2026-04-15 | 14 | 30 | 0 | 38 | 8 | 219 |
-| 360d | 2025-10-17 | 22 | 53 | 1 | 87 | 9 | 464 |
-| last720d | 2024-10-22 | 33 | 82 | 3 | 184 | 15 | 698 |
+| 30d | 2026-09-13 | 3 | 1 | 1 | 13 | 2 | 52 |
+| last60d | 2026-08-14 | 4 | 9 | 1 | 15 | 4 | 101 |
+| 90d | 2026-07-15 | 14 | 14 | 1 | 22 | 5 | 135 |
+| last180d | 2026-04-16 | 14 | 30 | 1 | 37 | 9 | 221 |
+| 360d | 2025-10-18 | 22 | 53 | 2 | 87 | 9 | 466 |
+| last720d | 2024-10-23 | 33 | 82 | 4 | 183 | 16 | 700 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261012.yml` · 2026-10-12T05:48:36Z._
+_Snapshot: `data/card/261013.yml` · 2026-10-13T06:48:11Z._
