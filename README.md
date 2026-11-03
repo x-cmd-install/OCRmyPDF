@@ -38,7 +38,7 @@ Total: **41,924** lines of code across **203** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,206 · **Forks**: 2,440 · **Open issues**: 1,384 · **Contributors**: 124
+- **Stars**: 35,220 · **Forks**: 2,442 · **Open issues**: 1,384 · **Contributors**: 124
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **41,924** lines of code across **203** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 0 | 3 | 4 | 3 | 6 | 8 |
-| last60d | 2026-09-03 | 3 | 6 | 4 | 16 | 6 | 75 |
-| 90d | 2026-08-04 | 5 | 11 | 4 | 18 | 8 | 108 |
-| last180d | 2026-05-06 | 14 | 31 | 4 | 36 | 13 | 220 |
-| 360d | 2025-11-07 | 22 | 52 | 4 | 83 | 13 | 450 |
-| last720d | 2024-11-12 | 31 | 84 | 7 | 169 | 19 | 670 |
+| 30d | 2026-10-04 | 0 | 3 | 4 | 2 | 6 | 8 |
+| last60d | 2026-09-04 | 3 | 6 | 4 | 15 | 6 | 75 |
+| 90d | 2026-08-05 | 5 | 11 | 4 | 18 | 8 | 108 |
+| last180d | 2026-05-07 | 14 | 31 | 4 | 36 | 13 | 220 |
+| 360d | 2025-11-08 | 22 | 52 | 4 | 82 | 13 | 450 |
+| last720d | 2024-11-13 | 31 | 84 | 7 | 168 | 19 | 670 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T05:48:32Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T06:30:14Z._
