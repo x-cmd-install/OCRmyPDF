@@ -38,22 +38,22 @@ Total: **41,924** lines of code across **203** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 35,248 · **Forks**: 2,447 · **Open issues**: 1,384 · **Contributors**: 124
+- **Stars**: 35,255 · **Forks**: 2,447 · **Open issues**: 1,387 · **Contributors**: 124
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 213 · **Open PRs**: 8 · **Closed issues**: 1321 · **Open issues**: 63 · **Commits**: 4574
+- **Releases**: 66 · **Merged PRs**: 213 · **Open PRs**: 8 · **Closed issues**: 1321 · **Open issues**: 66 · **Commits**: 4574
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 0 | 2 | 5 | 2 | 6 | 8 |
-| last60d | 2026-09-07 | 3 | 4 | 5 | 15 | 6 | 75 |
-| 90d | 2026-08-08 | 4 | 11 | 5 | 18 | 8 | 108 |
-| last180d | 2026-05-10 | 14 | 30 | 5 | 36 | 13 | 220 |
-| 360d | 2025-11-11 | 22 | 52 | 5 | 82 | 13 | 450 |
-| last720d | 2024-11-16 | 31 | 84 | 8 | 168 | 19 | 670 |
+| 30d | 2026-10-08 | 0 | 2 | 5 | 2 | 9 | 8 |
+| last60d | 2026-09-08 | 3 | 4 | 5 | 14 | 9 | 75 |
+| 90d | 2026-08-09 | 4 | 11 | 5 | 18 | 11 | 108 |
+| last180d | 2026-05-11 | 14 | 29 | 5 | 36 | 16 | 220 |
+| 360d | 2025-11-12 | 21 | 52 | 5 | 82 | 16 | 450 |
+| last720d | 2024-11-17 | 31 | 84 | 8 | 168 | 22 | 670 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T06:22:00Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T05:46:45Z._
