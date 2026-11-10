@@ -14,13 +14,13 @@ x install OCRmyPDF
 
 ## Code insight
 
-Total: **46,103** lines of code across **206** files in the top 5 languages.
+Total: **46,387** lines of code across **207** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 44,342 | 3,113 | 8,674 | 196 |
+| Python | 44,619 | 3,118 | 8,717 | 197 |
 | Svg | 583 | 0 | 0 | 5 |
-| Toml | 386 | 32 | 52 | 3 |
+| Toml | 393 | 32 | 52 | 3 |
 | Bash | 326 | 20 | 49 | 1 |
 | Fish | 166 | 2 | 27 | 1 |
 
@@ -32,37 +32,37 @@ Total: **46,103** lines of code across **206** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v17.13.0` (2026-09-28)
-- **Last commit**: 2026-11-07
+- **Latest**: `v17.14.1` (2026-11-09)
+- **Last commit**: 2026-11-09
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 35,262 · **Forks**: 2,449 · **Open issues**: 1,387 · **Contributors**: 127
+- **Stars**: 35,285 · **Forks**: 2,450 · **Open issues**: 1,388 · **Contributors**: 127
 
 ## Totals (cumulative)
 
-- **Releases**: 66 · **Merged PRs**: 217 · **Open PRs**: 4 · **Closed issues**: 1328 · **Open issues**: 59 · **Commits**: 4614
+- **Releases**: 68 · **Merged PRs**: 217 · **Open PRs**: 4 · **Closed issues**: 1328 · **Open issues**: 60 · **Commits**: 4630
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-09 | 0 | 6 | 2 | 8 | 2 | 35 |
-| last60d | 2026-09-09 | 3 | 8 | 2 | 21 | 2 | 96 |
-| 90d | 2026-08-10 | 4 | 15 | 2 | 25 | 4 | 139 |
-| last180d | 2026-05-12 | 14 | 32 | 2 | 43 | 9 | 249 |
-| 360d | 2025-11-13 | 21 | 56 | 2 | 89 | 9 | 481 |
-| last720d | 2024-11-18 | 30 | 87 | 4 | 174 | 15 | 705 |
+| 30d | 2026-10-11 | 2 | 6 | 2 | 8 | 2 | 51 |
+| last60d | 2026-09-11 | 5 | 7 | 2 | 21 | 3 | 112 |
+| 90d | 2026-08-12 | 6 | 15 | 2 | 23 | 5 | 155 |
+| last180d | 2026-05-14 | 16 | 32 | 2 | 42 | 10 | 265 |
+| 360d | 2025-11-15 | 23 | 56 | 2 | 89 | 10 | 497 |
+| last720d | 2024-11-20 | 32 | 87 | 4 | 174 | 16 | 721 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [ocrmypdf-17.13.0-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0-py3-none-any.whl) | 548.7 KiB | `other` |
-| [ocrmypdf-17.13.0-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0-py3-none-any.whl.sigstore.json) | 10.9 KiB | `other` |
-| [ocrmypdf-17.13.0.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0.tar.gz) | 7.3 MiB | `native/unknown` |
-| [ocrmypdf-17.13.0.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.13.0/ocrmypdf-17.13.0.tar.gz.sigstore.json) | 10.9 KiB | `other` |
+| [ocrmypdf-17.14.1-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1-py3-none-any.whl) | 578.7 KiB | `other` |
+| [ocrmypdf-17.14.1-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1-py3-none-any.whl.sigstore.json) | 10.6 KiB | `other` |
+| [ocrmypdf-17.14.1.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1.tar.gz) | 7.4 MiB | `native/unknown` |
+| [ocrmypdf-17.14.1.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1.tar.gz.sigstore.json) | 10.6 KiB | `other` |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261108.yml` · 2026-11-08T05:50:26Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:04:12Z._
