@@ -14,11 +14,11 @@ x install OCRmyPDF
 
 ## 代码洞察
 
-合计: **46,387** 行代码（覆盖前 5 种语言、共 **207** 个文件）。
+合计: **46,662** 行代码（覆盖前 5 种语言、共 **207** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 44,619 | 3,118 | 8,717 | 197 |
+| Python | 44,894 | 3,124 | 8,768 | 197 |
 | Svg | 583 | 0 | 0 | 5 |
 | Toml | 393 | 32 | 52 | 3 |
 | Bash | 326 | 20 | 49 | 1 |
@@ -32,37 +32,37 @@ x install OCRmyPDF
 
 ## 发布
 
-- **最新版本**: `v17.14.1` (2026-11-09)
-- **最近提交**: 2026-11-09
+- **最新版本**: `v17.14.2` (2026-11-16)
+- **最近提交**: 2026-11-16
 - **Release 含资产**: 4 个
 
 ## 流行度
 
-- **Star**: 35,318 · **Fork**: 2,455 · **开放 issue**: 1,388 · **贡献者**: 127
+- **Star**: 35,328 · **Fork**: 2,458 · **开放 issue**: 1,389 · **贡献者**: 127
 
 ## 累计统计
 
-- **发布数**: 68 · **已合并 PR**: 217 · **开放 PR**: 6 · **已关闭 issue**: 1328 · **开放 issue**: 60 · **提交数**: 4630
+- **发布数**: 69 · **已合并 PR**: 218 · **开放 PR**: 5 · **已关闭 issue**: 1328 · **开放 issue**: 61 · **提交数**: 4637
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 2 | 6 | 3 | 6 | 1 | 51 |
-| last60d | 2026-09-16 | 5 | 7 | 4 | 19 | 3 | 112 |
-| 90d | 2026-08-17 | 6 | 14 | 4 | 23 | 5 | 155 |
-| last180d | 2026-05-19 | 16 | 31 | 4 | 38 | 10 | 265 |
-| 360d | 2025-11-20 | 23 | 55 | 4 | 88 | 10 | 497 |
-| last720d | 2024-11-25 | 32 | 86 | 6 | 172 | 16 | 720 |
+| 30d | 2026-10-17 | 3 | 7 | 2 | 5 | 2 | 55 |
+| last60d | 2026-09-17 | 4 | 8 | 3 | 19 | 4 | 106 |
+| 90d | 2026-08-18 | 7 | 15 | 3 | 23 | 6 | 146 |
+| last180d | 2026-05-20 | 17 | 32 | 3 | 38 | 11 | 266 |
+| 360d | 2025-11-21 | 24 | 56 | 3 | 88 | 11 | 501 |
+| last720d | 2024-11-26 | 33 | 87 | 5 | 172 | 17 | 727 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [ocrmypdf-17.14.1-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1-py3-none-any.whl) | 578.7 KiB | `other` |
-| [ocrmypdf-17.14.1-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1-py3-none-any.whl.sigstore.json) | 10.6 KiB | `other` |
-| [ocrmypdf-17.14.1.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1.tar.gz) | 7.4 MiB | `native/unknown` |
-| [ocrmypdf-17.14.1.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.1/ocrmypdf-17.14.1.tar.gz.sigstore.json) | 10.6 KiB | `other` |
+| [ocrmypdf-17.14.2-py3-none-any.whl](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.2/ocrmypdf-17.14.2-py3-none-any.whl) | 579.9 KiB | `other` |
+| [ocrmypdf-17.14.2-py3-none-any.whl.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.2/ocrmypdf-17.14.2-py3-none-any.whl.sigstore.json) | 10.6 KiB | `other` |
+| [ocrmypdf-17.14.2.tar.gz](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.2/ocrmypdf-17.14.2.tar.gz) | 7.4 MiB | `native/unknown` |
+| [ocrmypdf-17.14.2.tar.gz.sigstore.json](https://github.com/ocrmypdf/OCRmyPDF/releases/download/v17.14.2/ocrmypdf-17.14.2.tar.gz.sigstore.json) | 10.6 KiB | `other` |
 
 ## 改进这些数据
 
@@ -73,4 +73,4 @@ OCRmyPDF 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261115.yml` · 2026-11-15T06:10:47Z._
+_数据快照: `data/card/261116.yml` · 2026-11-16T06:17:29Z._
