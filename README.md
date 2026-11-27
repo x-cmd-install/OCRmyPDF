@@ -33,27 +33,27 @@ Total: **46,839** lines of code across **207** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v17.14.2` (2026-11-16)
-- **Last commit**: 2026-11-25
+- **Last commit**: 2026-11-27
 - **Assets in release**: 4
 
 ## Popularity
 
-- **Stars**: 35,407 · **Forks**: 2,466 · **Open issues**: 1,392 · **Contributors**: 131
+- **Stars**: 35,414 · **Forks**: 2,468 · **Open issues**: 1,393 · **Contributors**: 131
 
 ## Totals (cumulative)
 
-- **Releases**: 69 · **Merged PRs**: 222 · **Open PRs**: 5 · **Closed issues**: 1330 · **Open issues**: 62 · **Commits**: 4651
+- **Releases**: 69 · **Merged PRs**: 222 · **Open PRs**: 6 · **Closed issues**: 1330 · **Open issues**: 63 · **Commits**: 4652
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 3 | 7 | 2 | 6 | 3 | 59 |
-| last60d | 2026-09-27 | 4 | 12 | 3 | 13 | 5 | 72 |
-| 90d | 2026-08-28 | 7 | 17 | 3 | 25 | 5 | 142 |
-| last180d | 2026-05-30 | 17 | 36 | 3 | 37 | 12 | 271 |
-| 360d | 2025-12-01 | 24 | 58 | 3 | 89 | 12 | 509 |
-| last720d | 2024-12-06 | 33 | 88 | 5 | 172 | 18 | 731 |
+| 30d | 2026-10-28 | 3 | 7 | 3 | 6 | 4 | 0 |
+| last60d | 2026-09-28 | 4 | 12 | 4 | 13 | 6 | 0 |
+| 90d | 2026-08-29 | 6 | 16 | 4 | 25 | 6 | 0 |
+| last180d | 2026-05-31 | 17 | 36 | 4 | 37 | 13 | 0 |
+| 360d | 2025-12-02 | 24 | 58 | 4 | 89 | 13 | 0 |
+| last720d | 2024-12-07 | 33 | 88 | 6 | 172 | 19 | 731 |
 
 ## Release assets
 
@@ -73,4 +73,4 @@ Install metadata for OCRmyPDF lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:03:10Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T08:06:50Z._
