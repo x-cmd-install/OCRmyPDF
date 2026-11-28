@@ -7,7 +7,7 @@ about:
   latestVersion: "v17.14.2"
   latestRelease: "v17.14.2"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T08:06:39Z
+  collectedAt: 2026-11-28T07:32:57Z
 timeline:
   created: 2013-12-20
   lastCommit: 2026-11-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-11-16
   lastPrerelease: 
 popularity:
-  star: 35414
+  star: 35420
   watcher: 185
   fork: 2468
   release: 69
@@ -29,51 +29,51 @@ language:
 totalBytes: 2028184
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 3
     mergedPR: 7
     openPR: 3
     closedIssue: 6
     openIssue: 4
-    commit: 0
+    commit: 60
   last60d:
-    since: 2026-09-28
-    release: 4
+    since: 2026-09-29
+    release: 3
     mergedPR: 12
     openPR: 4
     closedIssue: 13
     openIssue: 6
-    commit: 0
+    commit: 73
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 6
     mergedPR: 16
     openPR: 4
     closedIssue: 25
     openIssue: 6
-    commit: 0
+    commit: 143
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 17
     mergedPR: 36
     openPR: 4
     closedIssue: 37
     openIssue: 13
-    commit: 0
+    commit: 272
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 24
     mergedPR: 58
     openPR: 4
     closedIssue: 89
     openIssue: 13
-    commit: 0
+    commit: 510
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 33
     mergedPR: 88
     openPR: 6
-    closedIssue: 172
+    closedIssue: 171
     openIssue: 19
     commit: 731
 total:
@@ -85,7 +85,7 @@ total:
   commit: 4652
 ---
 path: /home/runner/.x-repo/github.com/ocrmypdf/OCRmyPDF
-collectedAt: 2026-11-27T08:06:44Z
+collectedAt: 2026-11-28T07:33:02Z
 loc:
   Python:
     code: 45063
@@ -150,4 +150,4 @@ total:
 ---
 
 ---
-{"id":446496452,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAOn4X84anP7E","tag_name":"v17.14.2","target_commitish":"main","name":"v17.14.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-16T00:57:07Z","updated_at":"2026-11-16T01:20:40Z","published_at":"2026-11-16T01:20:39Z","assets":[{"id":752934567,"node_id":"RA_kwDOAOn4X84s4N6n","name":"ocrmypdf-17.14.2-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":593813,"digest":"sha256:259f88098f37c1c36441459946bf6bd467ba398acdb699c8aff6f6d065144a28","download_count":69,"created_at":"2026-11-16T01:04:10Z","updated_at":"2026-11-16T01:04:11Z"},{"id":752977135,"node_id":"RA_kwDOAOn4X84s4YTv","name":"ocrmypdf-17.14.2-py3-none-any.whl.sigstore.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":10890,"digest":"sha256:dfd6a0aa086a798b5f928e225ebace8caf94a5cee3285204a23f888bb6a26273","download_count":23,"created_at":"2026-11-16T01:20:40Z","updated_at":"2026-11-16T01:20:40Z"},{"id":752934568,"node_id":"RA_kwDOAOn4X84s4N6o","name":"ocrmypdf-17.14.2.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":7785529,"digest":"sha256:6dc0be8db27019050ca91ac351bc0b9f0523f44601bd0cd6504a1b1750731dee","download_count":122,"created_at":"2026-11-16T01:04:10Z","updated_at":"2026-11-16T01:04:11Z"},{"id":752977138,"node_id":"RA_kwDOAOn4X84s4YTy","name":"ocrmypdf-17.14.2.tar.gz.sigstore.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":10890,"digest":"sha256:efc10b8df000cd5e1a35ae428050913c5a47ed7d9b1086b0d73cc94017f0113c","download_count":14,"created_at":"2026-11-16T01:20:40Z","updated_at":"2026-11-16T01:20:40Z"}],"body":"**Fixes**\n\n- Fixed RapidOCR missing thin characters such as `<` and misreading digits\n  on pages rasterized at well above `--rapidocr-max-side-len`, as happens with\n  `--redo-ocr`, which rasterizes at 400 dpi. RapidOCR shrank such pages with\n  interpolation that skips the pixels between its samples, breaking up thin\n  strokes. OCRmyPDF now shrinks them itself with a Lanczos filter first. On\n  one scanned assay table, the text layer kept 222 of 229 printed `<` signs,\n  up from 163."}
+{"id":446496452,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOAOn4X84anP7E","tag_name":"v17.14.2","target_commitish":"main","name":"v17.14.2","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-11-16T00:57:07Z","updated_at":"2026-11-16T01:20:40Z","published_at":"2026-11-16T01:20:39Z","assets":[{"id":752934567,"node_id":"RA_kwDOAOn4X84s4N6n","name":"ocrmypdf-17.14.2-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/octet-stream","state":"uploaded","size":593813,"digest":"sha256:259f88098f37c1c36441459946bf6bd467ba398acdb699c8aff6f6d065144a28","download_count":71,"created_at":"2026-11-16T01:04:10Z","updated_at":"2026-11-16T01:04:11Z"},{"id":752977135,"node_id":"RA_kwDOAOn4X84s4YTv","name":"ocrmypdf-17.14.2-py3-none-any.whl.sigstore.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":10890,"digest":"sha256:dfd6a0aa086a798b5f928e225ebace8caf94a5cee3285204a23f888bb6a26273","download_count":23,"created_at":"2026-11-16T01:20:40Z","updated_at":"2026-11-16T01:20:40Z"},{"id":752934568,"node_id":"RA_kwDOAOn4X84s4N6o","name":"ocrmypdf-17.14.2.tar.gz","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/x-gtar","state":"uploaded","size":7785529,"digest":"sha256:6dc0be8db27019050ca91ac351bc0b9f0523f44601bd0cd6504a1b1750731dee","download_count":126,"created_at":"2026-11-16T01:04:10Z","updated_at":"2026-11-16T01:04:11Z"},{"id":752977138,"node_id":"RA_kwDOAOn4X84s4YTy","name":"ocrmypdf-17.14.2.tar.gz.sigstore.json","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"application/json","state":"uploaded","size":10890,"digest":"sha256:efc10b8df000cd5e1a35ae428050913c5a47ed7d9b1086b0d73cc94017f0113c","download_count":14,"created_at":"2026-11-16T01:20:40Z","updated_at":"2026-11-16T01:20:40Z"}],"body":"**Fixes**\n\n- Fixed RapidOCR missing thin characters such as `<` and misreading digits\n  on pages rasterized at well above `--rapidocr-max-side-len`, as happens with\n  `--redo-ocr`, which rasterizes at 400 dpi. RapidOCR shrank such pages with\n  interpolation that skips the pixels between its samples, breaking up thin\n  strokes. OCRmyPDF now shrinks them itself with a Lanczos filter first. On\n  one scanned assay table, the text layer kept 222 of 229 printed `<` signs,\n  up from 163."}
